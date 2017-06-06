@@ -1,0 +1,9 @@
+[submodule "meta-openuxas"]
+	path = meta-openuxas
+	url = git@github.com:afrl-rq/meta-openuxas.git
+[submodule "meta-openembedded"]
+	path = meta-openembedded
+	url = git@github.com:acfoltzer/meta-openembedded.git
+[submodule "meta-odroid"]
+	path = meta-odroid
+	url = git@github.com:akuster/meta-odroid.git
